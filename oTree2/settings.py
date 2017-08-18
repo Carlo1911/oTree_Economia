@@ -16,7 +16,7 @@ else:
     DEBUG = True
 
 # don't share this with anybody.
-SECRET_KEY = 'c*fkon*q0x!(e7xqj*)38g^+x&1sr-ihzd95xi)*%@8us6#r3x'
+SECRET_KEY = 'srpn2l^d-d=&p8iglzr(&s!54qd27p1o@+m3n7fw#i&*m^s1i@'
 
 
 DATABASES = {
@@ -92,7 +92,7 @@ DEMO_PAGE_INTRO_TEXT = """
 """
 
 ROOMS = [
-	{
+    {
         'name': 'EconoLab',
         'display_name': 'Laboratorio de Economía',
         'participant_label_file': '_rooms/econolab.txt',
